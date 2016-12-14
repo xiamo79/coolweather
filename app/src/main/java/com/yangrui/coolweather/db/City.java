@@ -1,5 +1,7 @@
 package com.yangrui.coolweather.db;
 
+import org.litepal.crud.DataSupport;
+
 /**
  * Created by 杨瑞 on 2016/12/9.
  */
